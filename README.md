@@ -1,2 +1,2 @@
 # adv-r-chinese
-the chinese edition for myself
+the chinese edition of Adv-R
